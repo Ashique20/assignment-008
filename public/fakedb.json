@@ -1,0 +1,160 @@
+[
+    {
+        "id": "0",
+        
+        "name": "Volvo",
+        
+        "price": 39,
+        
+        "ratings": 3,
+        
+        "img": "https://img.freepik.com/free-photo/white-offroader-jeep-parking_114579-4007.jpg?w=360&t=st=1666548447~exp=1666549047~hmac=64fcda681f4b5bb9169269c0c80882f92c3600f33dd826820458e14b7a36f99c"
+        
+    },
+    {
+        "id": "1",
+        
+        "name": "White Maseraty",
+        
+        "price": 39,
+        
+        "ratings": 3,
+        
+        "img": "https://img.freepik.com/free-photo/white-coupe-sport-car-standing-road-front-view_114579-4005.jpg?w=900&t=st=1666548537~exp=1666549137~hmac=e65d0ea7f5d8b8224cf0aa19aba1a4abf1af630f32590640b24655f521e352ee"
+        
+    },
+    {
+        "id": "2",
+        
+        "name": "Blue Jeep",
+        
+        "price": 39,
+        
+        "ratings": 3,
+        
+        "img": "https://img.freepik.com/free-photo/blue-jeep-parking-public-zone_114579-4042.jpg?t=st=1666546660~exp=1666547260~hmac=43b2dfa68a16bb7c0eafa802af136b0053064e39855a4e2b133f78e311d13a99"
+        
+    },
+    {
+        "id": "3",
+        
+        "name": "Shev Rollet",
+        
+        "price": 39,
+        
+        "ratings": 3,
+        
+        "img": "https://img.freepik.com/free-photo/yellow-sport-car-with-black-autotuning-road_114579-5051.jpg?w=900&t=st=1666548614~exp=1666549214~hmac=a5c074833e85daba15e11b6ba8aab344875f54ca0d4a833e314d01f33bfafc93"
+        
+    },
+    {
+        "id": "4",
+        
+        "name": "Custodian",
+        
+        "price": 39,
+        
+        "ratings": 3,
+        
+        "img": "https://img.freepik.com/free-photo/front-wheel-blue-vintage-sedan_114579-6115.jpg?w=1380&t=st=1666548651~exp=1666549251~hmac=10bfe8ce503f2dadbec4250044c86045bfa2bd422d8037974fe5defabaa12c68"
+        
+    },
+    {
+        "id": "5",
+        
+        "name": "Squad Glass Bottle 720 ML",
+        
+        "price": 39,
+        
+        "ratings": 3,
+        
+        "img":  
+        "https://img.freepik.com/free-photo/grey-metallic-jeep-with-blue-stripe-it_114579-4080.jpg?t=st=1666896022~exp=1666896622~hmac=984056344324a0466e0beb8bea4d5d5feadf36481537d223b957335de73032fd3"
+        
+    },
+    {
+        "id": "6",
+        
+        "name": "Squad Glass Bottle 720 ML",
+        
+        "price": 39,
+        
+        "ratings": 3,
+        
+        "img": "https://img.freepik.com/free-photo/luxury-sport-car-with-xenon-lights-front-view_114579-5062.jpg?w=900&t=st=1666548788~exp=1666549388~hmac=61008ee8de4cca292f5ba24f19583ab87332253ff00e16099cd4a29fb2724959"
+        
+    },
+    {
+        "id": "8",
+        
+        "name": "Squad Glass Bottle 720 ML",
+        
+        "price": 39,
+        
+        "ratings": 3,
+        
+        "img": "https://img.freepik.com/free-photo/grey-metallic-color-sport-car-sunset_114579-4081.jpg?t=st=1666873575~exp=1666874175~hmac=80a932642b062b05e1ca7d4098f086f80d4ece8b1d6606cc8f68b419db07af8c"
+        
+    }, {
+        "id": "8",
+        
+        "name": "Squad Glass Bottle 720 ML",
+        
+        "price": 39,
+        
+        "ratings": 3,
+        
+        "img": "https://img.freepik.com/free-photo/back-side-view-metallic-silver-coupe-road_114579-4049.jpg?t=st=1666896100~exp=1666896700~hmac=70d2c48fccae139e361fe15f3cbd7b2b77cee6126bc74d5620e5f63de313e548"
+        
+    },
+    {
+        "id": "8",
+        
+        "name": "Squad Glass Bottle 720 ML",
+        
+        "price": 39,
+        
+        "ratings": 3,
+        
+        "img": "https://img.freepik.com/free-photo/direction-wheel-sport-car_114579-4008.jpg?w=900&t=st=1666548868~exp=1666549468~hmac=61ed807c655f7fc6c20542a8f01a20ac2c5db11902759ab714a370a932e3f83d"
+        
+    },
+    {
+        "id": "9",
+        
+        "name": "Squad Glass Bottle 720 ML",
+        
+        "price": 39,
+        
+        "ratings": 3,
+        
+        "img": "https://img.freepik.com/free-photo/luxury-sports-car-back-half-side-view_90220-308.jpg?w=826&t=st=1666883044~exp=1666883644~hmac=5b4fa26d438ccbeeafef022dcfecd9441b9817f0e14b2107cee6cd1e5b11332d"
+        
+    },
+    {
+        "id": "10",
+        
+        "name": "Squad Glass Bottle 720 ML",
+        
+        "price": 39,
+        
+        "ratings": 3,
+        
+        "img": "https://img.freepik.com/free-photo/white-modern-sport-car-parking-road_114579-4025.jpg?t=st=1666548960~exp=1666549560~hmac=e7c9b0394ef9d9af47a4df462d00fc098c09d156d394e6b9d7fad9ba6b5ed769"
+        
+    },
+    {
+        "id": "11",
+        
+        "name": "Squad Glass Bottle 720 ML",
+        
+        "price": 39,
+        
+        "ratings": 3,
+        
+        "img": "https://img.freepik.com/free-photo/white-luxury-sport-sedan-car-standing-race-trace-front-side-view_114579-1161.jpg?t=st=1666519840~exp=1666520440~hmac=97e2d0c62151a7fd8bea76ff3b34839f44e042efe37847bbb28d9a8af7b356ea"
+        
+    }
+   
+    
+]
